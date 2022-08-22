@@ -12,6 +12,6 @@ fun main() {
     }
 
     println()
-    println("Maximum Element from Array Without in-built Function : $maxnum")
-    println("Maximum Element from Array With in-built Function : ${nums.max()}")
+    println("Maximum Element from Array is : $maxnum")
+
 }
